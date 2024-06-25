@@ -1,2 +1,2 @@
-# Finale-project
-My finale project in Devops Course
+# Final-project
+My final project in DevOps Course
